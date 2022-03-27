@@ -1,0 +1,177 @@
+.header {
+    width: 100vw;
+    background-image: url(haus-hell.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0% 0%;
+    height: 250px;
+    box-shadow: 2px 2px 4px silver;
+    padding: 20px 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_top{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.header_left_logo img {
+    width: 125px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+.MuiBox-root .MuiIconButton-sizeSmall {
+    margin-left: 5px;
+}
+
+/* --- Anmelden Einloggen --- */
+.header_right {
+    display: flex;
+    align-items: flex-start;
+    margin-right: 20px;
+}
+
+.header_right_flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* --- Verlinkung Logo --- */
+.link_home {
+    text-decoration: none;
+}
+
+
+/* --- div Inputfield & Kalender --- */
+ .header_land_search {
+    margin-top: 60px;
+    margin-left: 7%;
+} 
+
+.header_land_search .css-1orzy9s:focus {
+    border: transparent 1px solid;
+}
+
+.header_land_search .css-177b34u {
+    width: 100%;
+    margin-left: 0;
+}
+
+.header_land_search .calendar-search {
+    margin-top: 10px;
+}
+
+.header_land_search .searchIconButton {
+    
+    position: absolute;
+    right: 0;
+}
+
+.header_land_search .css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    min-width: 25vw;
+}
+
+.header_land_search .css-3bmhjh-MuiPaper-root-MuiPopover-paper {
+    max-height: calc(100% - 40px);
+}
+
+.MuiInputBase-input::placeholder{
+
+    text-align: center;
+}
+
+
+
+#myHeader .css-1rwt2y5-MuiButtonBase-root-MuiButton-root {
+    border: none;
+    padding: 0;
+    font-size: 0.875rem;
+    letter-spacing: 0;
+    line-height: 1;
+    font-weight: normal;
+}
+
+.header_suche_kalender {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/* --- media screen --- */
+/* --- bis 375px phone --- */
+@media screen and (max-width:410px) {
+    .header_left_logo img {
+        width: 105px;
+        height: 80px;
+    }
+    .header {
+        height: 450px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .header_land_search{
+        margin-top: 0;
+    }
+    .css-177b34u .calendar-search{
+        width: 50vw;
+    }
+
+}
+
+
+@media (min-width: 376px) and (max-width: 860px) {
+
+    
+    .header_right_flex {
+      position: absolute;
+        right: 10px;
+    }
+  
+    .header_land_search {
+        position: absolute;
+        right: 15px;
+        margin-left: 50%;
+        /* transform: translateX(-50%); */
+        margin-top: 65px;
+    }
+  
+  }
+
+@media (max-width: 510px) {
+    .header_land_search {
+         transform: none;
+         right: 15px;
+         width: 250px;
+     }
+   }
+
+
+@media (max-width: 410px) {
+
+    .App {
+        overflow-x: hidden;
+      }
+
+
+    .header_right_flex {
+
+        position: static;
+        right: 35px;
+        transform: translateX(35px);
+        
+    }
+
+    .header_land_search {
+
+        position: static;
+        margin-left: 0;
+    }
+
+    
+}

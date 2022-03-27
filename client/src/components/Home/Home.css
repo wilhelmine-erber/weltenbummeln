@@ -1,0 +1,132 @@
+.page-container{
+    position:relative;
+    min-height:100vh;
+}
+
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 100vw;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    padding-bottom: 2.5rem;
+}
+
+.maincard{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(241, 241, 241, 0.705);
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: rgba(245, 245, 245, 0.527);
+    box-shadow: 1px 1px 3px silver;
+    cursor: pointer;
+    width: 560px;
+}
+
+.home_card_flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.imgCard {
+    margin-right: 10px;
+    width: 100%;
+}
+.imgCard img {
+    width: 100%;
+    height: 250px;
+    margin-top: 20px;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 5px;
+}
+
+.contentCard {
+    width: 100%;
+    padding-right: 10px;
+}
+
+.contentCard h3, h4 {
+    font-weight: 100;
+    color: rgb(109, 108, 108);
+}
+
+#title {
+    font-size: 1.2em;
+}
+
+.preisCard {
+    text-align: right;
+    padding-right: 10px;
+}
+
+.preisCard p span{
+    font-weight: bold;
+ }
+
+ .imgCard img {
+     min-width: 100%;
+     object-fit: cover;
+ }
+
+.home_card_h2 {
+     text-align: center;
+ }
+ .home_card_h2:hover {
+     color: #03989e;
+     text-decoration: underline;
+     cursor: pointer;
+ }
+ .home_card_h3{
+    height: 20px;
+ }
+
+ #title {
+     height: 70px;
+ }
+
+ .home_card_description {
+     height: 40px;
+ }
+
+
+
+ @media screen and (min-width:600px) {
+    /* ab 600px breite */
+    .maincard { 
+        /* height: 460px; */
+        width: 600px;
+        }
+        #title {
+            height: 50px;
+        }
+        .home_card_h3{
+            height: 5px;
+         }
+        .imgCard img {
+        width: 100%;
+        height: 200px;
+        
+        }
+        .home_card_description {
+            height: 20px;
+        }
+    }
+
+    /* ab 1200px screen */
+@media screen and (min-width:1200px) {
+    .maincard { 
+        /* height: 460px; */
+        width: 600px;
+        }
+        #title {
+            height: 50px;
+        }
+        .home_card_h3{
+            height: 5px;
+         }
+         .home_card_description {
+            height: 20px;
+        }
+    }

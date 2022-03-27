@@ -1,0 +1,93 @@
+.pictures_Details {
+    display: flex;
+    height: 500px;
+    margin-bottom: 5px;
+}
+
+.pictures_firstPic{
+    width: 550px;
+}
+
+.pictures_firstPic img {
+    height: 500px;
+    width: 550px;
+    object-fit: cover;
+    margin-right: 5px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.pictures_smallPics {
+    width: 620px;
+    overflow: hidden;
+    margin-left: 1px;
+}
+.pictures_smallPics >* {
+    display: inline-flex;
+    margin-left: 5px;
+    width: 270px;
+    height: 248px;
+}
+
+.pics_map img{
+    width: 100%;
+    object-fit: cover;
+}
+
+@media screen and (max-width:600px) {
+    *{
+        box-sizing: border-box;
+    }
+    .pictures_Details {
+        height: 400px;
+        display: flex;
+        flex-direction: column;
+    }
+    .pictures_firstPic { 
+        width: 100%;
+        height: 50%;
+        margin-bottom: 5px;
+     }
+     .pictures_firstPic img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 10px;
+     }
+     .pictures_smallPics {
+        height: 400px;
+        width: 100%;
+        margin-left: 0;
+     }
+     .pictures_smallPics >* {
+        display: inline-flex;
+        margin-left: 0px;
+        width: 50%;
+        height: 248px;
+    }
+    .pics_map:first-child {
+       border-right: 5px solid white;
+    }
+
+    }
+/* 
+    @media screen and (max-width:900px) {
+        /* Zusätzliche Regeln für Handy  */
+        /* .pictures_Details {
+            height: 400px;
+        }
+        .pictures_firstPic { 
+            width: 100%;
+            height: 400px;
+         }
+         .pictures_firstPic img {
+            width: 100%;
+            object-fit: cover;
+            height: 400px;
+         }
+         .pictures_smallPics {
+            height: 400px;
+         }
+        } */
+     

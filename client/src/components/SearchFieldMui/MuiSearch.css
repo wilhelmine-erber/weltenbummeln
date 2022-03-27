@@ -1,0 +1,7 @@
+.searchIconButton {
+    position: absolute;
+    right: -600px;
+    z-index: 10;
+    color: rgb(46, 44, 44) !important;
+    
+}

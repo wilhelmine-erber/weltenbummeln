@@ -1,0 +1,98 @@
+.aboutus {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  margin: 20px auto;
+}
+.aboutus ~span {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .section-head_about {
+    margin-bottom: 60px;
+    padding: 10px;
+  }
+  
+  .section-head_about h4 {
+    position: relative;
+    padding: 0;
+    color: var(--main-blue);
+    line-height: 1;
+    letter-spacing: 0.3px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: none;
+    margin-bottom: 30px;
+  }
+  
+  .section-head_about h4::before {
+    background: var(--main-blue);
+    width: 60px;
+    height: 3px;
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  }
+  
+  .section-head_about h4 span {
+    font-weight: 700;
+    padding-bottom: 5px;
+    font-size: 2rem;
+  }
+  
+  .section-head_about p {
+    color: var(--dark);
+    font-size: 1.2rem;
+    line-height: 28px;
+    text-align: center;
+  }
+  
+  .item_about {
+    text-align: center;
+    padding: 30px 25px;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.07);
+    border-radius: 20px;
+    -webkit-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+  }
+  
+  .item_about h6 {
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--main-blue);
+  }
+  
+  .item_about p {
+    line-height: 1.5rem;
+    color: var(--dark);
+  }
+  
+  .fa {
+    color: var(--main-blue);
+  }
+  
+  .item_about .icon_about {
+    font-size: 2rem;
+    margin-bottom: 25px;
+    width: 90px;
+    height: 90px;
+    line-height: 6rem;
+    border-radius: 50px;
+  }
+  
+  @media screen and (max-width:600px) {
+    .aboutus {
+      width: 100vw;
+    }
+  }
+
+
+  @media screen and (max-width:1200px) {
+    .aboutus {
+      width: 80%;
+    }
+  }

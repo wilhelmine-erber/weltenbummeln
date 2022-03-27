@@ -1,0 +1,32 @@
+.showAllPics_h2{
+
+}
+
+.showAllPictures_allPics {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.showAllPics_img{
+    width: 50%;
+    border: rgb(207, 207, 207) solid 1px;
+}
+
+.showAllPictures_back {
+    margin: 40px 0 10px ;
+    display: inline;
+}
+
+.showAllPictures_flex {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media screen and (max-width:800px) {
+    .showAllPics_img { 
+        width: 100%;
+     }
+    }

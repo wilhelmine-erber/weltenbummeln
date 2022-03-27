@@ -1,0 +1,68 @@
+
+.searchButton {
+    width: 100%;
+    background-color: inherit !important;
+    border:inherit !important;
+    background-color: rgba(255, 255, 255, 0.15) !important;
+    font-family: 'Raleway', sans-serif !important;
+    text-transform: inherit !important;
+    color: rgb(0, 0, 0) !important;
+    box-shadow: 1px 1px 2px rgb(211, 210, 210)
+}
+
+.searchButton:hover {
+    background-color: rgba(255, 255, 255, 0.295) !important;
+}
+
+.daterangeicon {
+    color: #e1bb92;
+}
+
+.DayPicker {
+    color: #03989e;
+    cursor: pointer;
+    min-height: fit-content;
+        
+}
+.DayPicker .gast {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 180px;
+        margin: 10px;
+}
+.DayPicker .gast input {
+    width: 40px;
+    height: 25px;
+}
+.gast input:focus {
+    border: #427c7e 1px solid;
+}
+
+.DayPicker .check {
+    background-color: #e1bb92;
+    color: white;
+    width: 100%;
+}
+.DayPicker .check:hover {
+    color: #427c7e;
+}
+
+p{
+    margin-right: 5px;
+}
+
+@media (max-width: 410px) {
+
+    .searchButton {
+
+        background-color: rgba(255, 255, 255, 0.30) !important;     
+    }
+
+    .css-177b34u {
+        position: relative;
+        border-radius: 4px;
+        background-color: rgba(255, 255, 255, 0.30); 
+        margin-left: 0;
+    }
+}

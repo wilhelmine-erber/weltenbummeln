@@ -1,0 +1,17 @@
+
+.offers_container, .nooffers_container {
+    height: 420px;
+   
+}
+
+.liste_offers {
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.liste_offers p {
+    margin: 10px;
+}

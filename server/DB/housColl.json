@@ -1,0 +1,1335 @@
+[
+    {
+        "booking": {
+            "startDate": "2021-12-03",
+            "endDate": "2021-12-04"
+        },
+        "koordinaten": {
+            "lat": "52.5385323508685",
+            "lng": "13.423349254158916"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Berlin.jpg",
+            "moreImages": [
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Wohnzimmer.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Wohnzimmer-2.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Flur.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Kueche.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Essplatz.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Bad.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Dusche.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Waschbecken.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Balkon.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Garderobe.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Schlafzimmer.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": true,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": true,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": true,
+            "Föhn": true,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "RauchenErlaubt": false,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Simon",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Simon.jpeg"
+        },
+        "type": "Modernes 2-Zimmer Apartment mit Balkon",
+        "title": "Das Apartment mit ca. 35qm Größe bietet Platz für bis zu 4 Personen.",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "4 Gäste · 1 Schlafzimmer · 2 Betten · 1 Badezimmer",
+        "longDescription": "Im Herzen Berlins erwartet euch dieses modern eingerichtete Apartment (35qm) mit einem großen Balkon . Das Apartment liegt im Prenzlauer Berg und ist sowohl von der City West als auch von Berlin Mitte schnell zu erreichen. Das Apartment bietet Platz für bis zu 4 Personen.",
+        "ort": "Berlin",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Prenzlauer Allee 199, 10405 Berlin",
+        "preis": "137€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-28",
+            "endDate": "2021-11-29"
+        },
+        "koordinaten": {
+            "lat": "51.44378683771061",
+            "lng": "6.9812996742552516"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/duesseldorf.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/Wohnzimmer.webp",
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/TV.webp",
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/Spielzeug.webp",
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/Schlafzimmer.webp",
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/Kueche.webp",
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/Esstisch.webp",
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/Essplatz.webp",
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/Dusche.webp",
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/Balkon.webp",
+                "http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/Bad.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": false,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": true,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": true,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": true,
+            "Föhn": true,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "RauchenErlaubt": false,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Kathi",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Kathi.jpg"
+        },
+        "type": "Lichtdurchflutetes Cityapartment mit Netflix",
+        "title": "Lichtdurchflutetes Cityapartment, dieses Apartment bietet eine voll ausgestattete Küche mit Balkon",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "3 Gäste, · Studio · 2 Betten · 1 Badezimmer",
+        "longDescription": "Ob nun geschäftlich, als Besucher der Messe, für einen Citytrip oder zum Familienbesuch in dieser hellen und frisch renovierten Wohnung kann man sich mit bis zu 3 Personen (+Kind) wie Zuhause fühlen! Die Unterkunft befindet sich sehr zentral in Essen-Holsterhausen. Durch die Nähe zur A40 und A52 erreicht man auch mit dem Auto alle großen Unternehmen (wie Innogy, Thyssen Krupp, RWE, Evonik Industries etc.), die Messe Essen, das Universitätsklinikum, das Rhein-Ruhr-Zentrum, die Gruga, die Innenstadt und Weiteres in Essen und Mülheim a.d. Ruhr in nur wenigen Fahrminuten. Zum Klinikum sind es gerade einmal 2, 3km, zur Messe 4, 2 km und zum Hbf 4, 6km.Eine U- Bahn Station, sowie eine Bushaltestelle mit zwei Busverbindungen, die alle wichtigen Ziele anfahren, sind fußläufig zu erreichen.Das Haus hat einen Aufzug, nur 4 Stufen vor der Eingangstür sind nicht barrierefrei.",
+        "ort": "Düsseldorf",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Asthöwerstraße 8, 45147 Essen",
+        "preis": "75€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-12-20",
+            "endDate": "2021-12-22"
+        },
+        "koordinaten": {
+            "lat": "50.976170436201784",
+            "lng": "11.031479450751966"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Stadt.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Wohnzimmer.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Wohnbereich.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Kueche.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Kueche-2.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Schlafzimmer.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Schlafzimmer-2.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Sitzecke.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Bad.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Babyzubehoer.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": false,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": true,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": true,
+            "Föhn": true,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "RauchenErlaubt": true,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Mary",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Mary.jpeg"
+        },
+        "type": "Moderne, zentrale 86m² Wohnung mit NETFLIX",
+        "title": "Diese Ferienwohnung ist ein idealer Ausgangspunkt zu allen schönen Sehenswürdigkeiten und zentralen Orten.",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "5 Gäste · 2 Schlafzimmer · 3 Betten · 1 Badezimmer",
+        "longDescription": "Das Bad ist mit einer Wanne und Duschvorhang ausgestattet, ebenso befinden sich genügend Handtücher, Shampoo und Duschgel darin. Die Wohnung hat eine Küche mit allem was man zum Kochen braucht.Tee, Kaffee, Gewürze sind ebenfalls vorhanden. Es gibt ein Wohn/ Esszimmer mit Tisch und sechs Stühlen, ein gemütliches Sofa, sowie Fernseher mit NETFLIX, jedoch ohne Kabel Fernsehen. Die Wohnung hat 2 Schlafzimmer.Eins mit großen Bett(1,60m x2,00m), Einzelbett(1,00mx2,00m), Kommode, diverse Bücher und Schminktisch, sowie Verdunklungsvorgänge. Das zweite Zimmer ist etwas kleiner.Dort steht ein Bett(1,60mx2,00m), ein Schreibtisch und eine Kleiderstange. Es gibt ein Reisebett für Babys / Kinder mit Matratze und Bettwäsche.Das werden wir dann aufstellen und Sie können es stellen wo es Ihnen am Besten passt.Etwas Spielzeug und Hygieneartikel speziell für Babys sind auch vorhanden. ",
+        "ort": "Erfurt",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Grafengasse 21",
+        "preis": "161€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-12-31",
+            "endDate": "2022-01-02"
+        },
+        "koordinaten": {
+            "lat": "53.52029705002316",
+            "lng": "10.007276956292484"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/hamburg.jpg",
+            "moreImages": [
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Bad.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Bad-2.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Kueche.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Essplatz.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Flur.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Garten.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Garten-2.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Schlafzimmer.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Wohnzimmer.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/Umgebung.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": true,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": true,
+            "Föhn": true,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "RauchenErlaubt": true,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Theo",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Theo.jpg"
+        },
+        "type": "Moderne, ausgestattete 2-Zimmer Wohnung in Wedel",
+        "title": "Diese schöne 2-Zimmer Wohnung ist voll ausgestattet und bietet Platz für 1-6 Personen.",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "6 Gäste · 1 Schlafzimmer · 2 Betten · 1 Badezimmer",
+        "longDescription": "Die Unterkunft ist eine neu sanierte, 55m² große Wohnung mit separatem Eingang im Ergeschoss. Sie bietet einen gemütlichen Rückzugsort, in dem Sie sich wie in Ihren eigenen vier Wänden wohlfühlen können. Im hellen Wohnzimmer befindet sich eine bequeme Couchgarnitur.Diese kann zu einem Doppelbett aufgeklappt werden, sodass sie Schlafplätze für zwei Personen bietet.Zudem stellen wir eine Klappmatratze(200 cm x 120 cm x 12 cm) bereit, die im Wohnzimmer aufgeklappt werden kann und weiteren Platz für zwei Personen bietet. Außerdem gibt es einen Esstisch für 6 Personen und einen Fernseher.WLAN ist natürlich auch vorhanden und im Preis inbegriffen.",
+        "ort": "Hamburg",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Harburger Ch 73E, 20539 Hamburg",
+        "preis": "103€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-10",
+            "endDate": "2021-11-13"
+        },
+        "koordinaten": {
+            "lat": "50.94821317095552",
+            "lng": "6.964459089895217"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Köln-Bilder/Köln-02/koeln.jpg",
+            "moreImages": [
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Ausblick.webp",
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Balkon.webp",
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Balkon-2.webp",
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Bett.webp",
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Schlafzimmer.webp",
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Bad.webp",
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Bad-2.webp",
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Essplatz.webp",
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Flur.webp",
+                "http://localhost:4000/public/images/Köln-Bilder/Köln-02/Kueche.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": true,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": false,
+            "Föhn": true,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "RauchenErlaubt": true,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Roman",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Roman.jpg"
+        },
+        "type": "Grüne Oase - Sonnenwohnung mit Balkon im Zentrum",
+        "title": "Sehr zentrale, helle Altbauwohnung im Herzen von Köln.",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "3 Gäste · 1 Schlafzimmer · 1 Bett · 1,5 Bäder",
+        "longDescription": "Die Wohnung mit Sonnen/Südbalkon bietet bis zu drei Leuten Platz und liegt sehr zentral. Das Schlafzimmer ist ausgestattet mit einem Doppelbett und einem Sofa. Das Duschbad überzeugt mit Tageslicht. Das WC liegt seperat neben der Diele im Eingangsbereich. Die vollwertige Küche ist mit allem ausgestattet, was man braucht. Hohe Altbauräume und gepflegte Einrichtung sorgen für Wohlfühlatmospäre. Wir bieten Ihnen außerdem eine kostenlose Parkmöglichkeit in der Nachbarschaft.",
+        "ort": "Köln",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Konrad-Adenauer-Ufer 49, 50668 Köln",
+        "preis": "120€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-10-30",
+            "endDate": "2021-11-01"
+        },
+        "koordinaten": {
+            "lat": "47.67899882130509",
+            "lng": "9.170152986406354"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Konstanz.jpg",
+            "moreImages": [
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Ausblick.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Bad.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Dusche.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Betten.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Schlafzimmer.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Terasse.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Restaurant.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Spabereich.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Tiere.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": false,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": true,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": true,
+            "Föhn": false,
+            "Klimaanlage": true,
+            "Kleiderbügel": true,
+            "RauchenErlaubt": true,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Wolfgang",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Wolfgang.jpg"
+        },
+        "type": "Erlebnishof & Familienspa: Studio Deluxe Terrasse",
+        "title": "Das Studio verfügt über eine Kochecke, kleinem Kleiderschrank, einem Bad mit WC und begehbarer Dusche.",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "4 Gäste · 2 Betten · 1 Badezimmer",
+        "longDescription": "Gut Hügle ist ein familienfreundlicher Erlebnisbauernhof. Auf unserem Hof befinden sich verschiedene Häuser mit unterschiedlichen Übernachtungsmöglichkeiten und Komfort. Unser neues Familien Spa bietet Wellness und Fitness für die ganze Familie. Je nach Jahreszeit bietet unser Kirschgarten, Maislabyrinth, Discgolf und Spielscheune ein abwechslungsreiches Programm. Frühstücken & Essen kannst Du bei uns im Restaurant. Vom Wohn- & Schlafbereich haben Sie einen ebenerdigen Austritt auf eine Terrasse. Schallgedämmte Wohnung mit hochwertiger Ausstattung: massives Eichenparkett, Naturschiefer im Bad, Echtholz Eichenmöbel, Flat-TV, Einbauküche mit vollwertiger Ausstattung, natürliches Komfortlüftungssystem.",
+        "ort": "Konstanz",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Wollmatinger Str. 113, 78467 Konstanz",
+        "preis": "76€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-17",
+            "endDate": "2021-11-18"
+        },
+        "koordinaten": {
+            "lat": "51.33823470764359",
+            "lng": "12.373021021519355"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Leipzig.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Wohnzimmer.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Wohnung.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Schreibtisch.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Kueche.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Couch.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Couch-2.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Bett.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Bad.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Ausblick.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": true,
+            "Reinigungsprodukte": false,
+            "Bügeleisen": false,
+            "Föhn": false,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "RauchenErlaubt": false,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Calvin",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Calvin.jpg"
+        },
+        "type": "FairTräumen - Stötteritzer Wäldchen - nahe Zentrum",
+        "title": "Unsere schöne im Jahr 2020 sanierte moderne Ferienwohnungen liegt in einem Neun-Parteien Haus in Leipzig.",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "4 Gäste · Studio · 1 Bett · 1 Badezimmer",
+        "longDescription": "Unsere Wohnung liegt in Sötteritz mit optimaler Verkehrsanbindung zum Zentrum, Zoo und zur Messe Leipzig. Die frisch renovierte, helle Zweiraumwohnung finden Sie im 2.OG in einem Altbau mit grünem Garten. Mit stilvollen Möbeln, modernem Bad, kompletter Küche, einem großen Bett und einem schönen Eiche-Parkettboden bietet sich die Unterkunft ideal für Touristengruppen, Paare, Familien und Geschäftsreisende an. Der Garten kann von Ihnen sehr gerne genutzt werden. Vor dem Haus befinden sich kostenlose Parkplätze (im öffentlichen Raum). Zusätzlich haben Sie die Möglichkeit auf Spendenbasis Weine oder Snacks aus der Region bei uns zu erwerben.",
+        "ort": "Leipzig",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Burgstraße, 04109 Leipzig",
+        "preis": "92€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-12-28",
+            "endDate": "2021-12-29"
+        },
+        "koordinaten": {
+            "lat": "48.141963641295554",
+            "lng": "11.560180388640148"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/München-Bilder/München-02/München.jpg",
+            "moreImages": [
+                "http://localhost:4000/public/images/München-Bilder/München-02/Wohnung.webp",
+                "http://localhost:4000/public/images/München-Bilder/München-02/Schrank-2.webp",
+                "http://localhost:4000/public/images/München-Bilder/München-02/Schrank.webp",
+                "http://localhost:4000/public/images/München-Bilder/München-02/Kueche.webp",
+                "http://localhost:4000/public/images/München-Bilder/München-02/Flur.webp",
+                "http://localhost:4000/public/images/München-Bilder/München-02/Dusche.webp",
+                "http://localhost:4000/public/images/München-Bilder/München-02/Bett.webp",
+                "http://localhost:4000/public/images/München-Bilder/München-02/Bad.webp",
+                "http://localhost:4000/public/images/München-Bilder/München-02/Bad-2.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": true,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": false,
+            "Reinigungsprodukte": false,
+            "Bügeleisen": false,
+            "Föhn": false,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "RauchenErlaubt": false,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Julia",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Julia.jpg"
+        },
+        "type": "Deluxe Apartment am Königsplatz I",
+        "title": "Genieße das einfache Leben in dieser ruhigen und zentral gelegenen Unterkunft in der nähe von Königsplatz. ",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "4 Gäste · 1 Schlafzimmer · 2 Betten · 1 Badezimmer",
+        "longDescription": "500m vom Hauptbahnhof und eine Minute zu Fuss von Station Königsplatz. Gesamtfläche des Apartments 45 m2.",
+        "ort": "München",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Dachauer Str. 3, 80335 München",
+        "preis": "256€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-01",
+            "endDate": "2021-11-02"
+        },
+        "koordinaten": {
+            "lat": "54.44543496115888",
+            "lng": "13.572241781851467"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/ruegen.jpg",
+            "moreImages": [
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Wohnung.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Tisch.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Strand.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Kueche.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Flur.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Essplatz.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Dusche.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Bad.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Bett.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Bett-2.webp",
+                "http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/Balkon.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": true,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": false,
+            "Föhn": true,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "RauchenErlaubt": false,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Gabriele",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Gabriele.jpg"
+        },
+        "type": "Lütt Mia - Nur 70 Meter zum Ostseestrand",
+        "title": "Exklusive und moderne Ferienwohnungen direkt am Strand Proraer Wiek auf Rügen.",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "6 Gäste · 2 Schlafzimmer · 3 Betten · 2 Badezimmer",
+        "longDescription": "Lütt Mia Haus Jasmund 2. OG mit Fahrstuhl bis 3. OG 1 Treppe runter in das 2. OG in abgeschlossener Einheit 80 qm, 2 Schlafzimmer, 2 Bäder, Wohn -und Essbereich, Doppelbalkon zur Meerseite, maximale Belegung 6 Personen (Aufbettung möglich), nicht behindertengerecht (durch Treppe), Ausstattung: Wohnzimmer: Wlan, TV, Schlafsofa, Küche: Herd, Backofen, Kühlschrank mit Gefrierfach,Schlafzimmer: je 2 Doppelbetten 180x200, Begehbares Kleiderzimmer: Kinderreisebett, Hochstuhl, Tischbügelbrett-Reisebügeleisen, Fön, Ersatzbettdecken, Wäscheständer, Balkon: Esstisch, 4 Stühle, Loungemöbel, Sonnenschutz",
+        "ort": "Rügen",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Nordstrand 407, 18609 Binz",
+        "preis": "221€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-07",
+            "endDate": "2021-11-08"
+        },
+        "koordinaten": {
+            "lat": "48.68343852044921",
+            "lng": "9.21462344914074"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Stuttgart.jpg",
+            "moreImages": [
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Wohnzimmer.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/TV.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Tisch.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Kueche.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Flur.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Essplatz.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Deko.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Couch.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Bett.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Balkon.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Bad.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": false,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": true,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": false,
+            "Föhn": true,
+            "Klimaanlage": false,
+            "Kleiderbügel": false,
+            "RauchenErlaubt": false,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Cagdas",
+            "profImg": "http://localhost:4000/public/images/owner/owner-02/Cagdas.jpg"
+        },
+        "type": "Moderne helle Wohnung, Balkon, nahe Messe/Airport",
+        "title": "Die sehr sonnige, frisch renovierte und eingerichtete 1-Zimmerwohnung ist 34 qm gross und befindet sich in Esslingen Stadtteil Zollberg.",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "3 Gäste · Studio · 2 Betten · 1 Badezimmer",
+        "longDescription": "Es sind 2 Einzellbetten und ein Schlafcouch im Wohnbereich vorhanden. Die Einzellbetten kann man auch, wenn gewünscht, zu Doppelbetten zusammenschieben. Die separate Küche ist vollausgestattet. Cerankochfeld, Backofen, Kühlschrank, Toaster, Kaffeemaschine und Wasserkocher sind ebenfalls vorhanden. Für alle Personen sind bei der Anreise Bettwäsche und Handtücher vorhanden. Smart-TV mit 43 Zoll mit Kabelanschluss",
+        "ort": "Stuttgart",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Nord-West-Ring 35, 70794 Filderstadt",
+        "preis": "95€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-01",
+            "endDate": "2021-11-30"
+        },
+        "koordinaten": {
+            "lat": "52.49051",
+            "lng": "13.42876"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Berlin-Bilder/Berlin-01/Berlin-main.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-01/Bett.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-01/Schreibtisch.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-01/Badezimmer.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-01/Flur.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-01/Wohnzimmer-2.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-01/K%C3%BCche.webp",
+                "http://localhost:4000/public/images/Berlin-Bilder/Berlin-01/Wohnzimmer.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "GeschirrUndBesteck": false,
+            "Reinigungsprodukte": false,
+            "Bügeleisen": false,
+            "Klimaanlage": false,
+            "Kleiderbügel": false,
+            "RauchenErlaubt": false,
+            "LangzeitaufenthalteSindMöglich": true
+        },
+        "owner": {
+            "name": "Alena",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Alena.jpg"
+        },
+        "type": "Gesamte Unterkunft in der Hauptstadt",
+        "title": "Schöne große 2-Zimmer-Altbauwohnung am Maybachufer!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Badezimmer · 1 Küche ",
+        "longDescription": "Unsere schöne und geräumige Altbauwohnung befindet sich in dem wunderbaren Reuterkiez in Neukölln, 1 Min. entfernt vom Maybachufer mit seinen Cafés, Restaurants, Flohmärkten, Boutiquen... Die Wohnung ist im 4. Stock eines typischer Berlinerischen Altbauhauses, mit hohen Decken. Während deiner/eurer Mietzeit sind wir nicht da und ihr habt Zugang zu dem großen & schön eingerichteten Wohnzimmer, dem gemütlichen Schlafzimmer (1,80x2m Bett), Küche & Bad. U-Bahn & Busse sind 10 Min. entfernt. ",
+        "ort": "Berlin",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Reuterstr.",
+        "preis": "71€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-12-02",
+            "endDate": "2021-12-06"
+        },
+        "koordinaten": {
+            "lat": "51.24405",
+            "lng": "6.78359"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/D%C3%BCsseldorf-Bilder/D%C3%BCsseldorf-01/D%C3%BCsseldorf-main.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/D%C3%BCsseldorf-Bilder/D%C3%BCsseldorf-01/Aus%C3%9Fenansicht.webp",
+                "http://localhost:4000/public/images/D%C3%BCsseldorf-Bilder/D%C3%BCsseldorf-01/Bad.jpeg",
+                "http://localhost:4000/public/images/D%C3%BCsseldorf-Bilder/D%C3%BCsseldorf-01/Balkon.webp",
+                "http://localhost:4000/public/images/D%C3%BCsseldorf-Bilder/D%C3%BCsseldorf-01/Bett.webp",
+                "http://localhost:4000/public/images/D%C3%BCsseldorf-Bilder/D%C3%BCsseldorf-01/Eingang-K%C3%BCche.webp",
+                "http://localhost:4000/public/images/D%C3%BCsseldorf-Bilder/D%C3%BCsseldorf-01/Schreibtisch.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "Geschirr und Besteck": true,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": false,
+            "Föhn": true,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "Rauchen erlaubt": false,
+            "Langzeitaufenthalte sind möglich": true
+        },
+        "owner": {
+            "name": "Alex",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Alex.jpg"
+        },
+        "type": "Studio Verde | Altstadt | Rooftop Balkon | Messe",
+        "title": "Genieße Düsseldorf im schönen Pempelfort mit fantastischer Anbindung an die Stadt!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Badezimmer",
+        "longDescription": "Das 35m² Apartment wurde zuletzt grundlegend renoviert und anschließend mit hochwertigen Möbeln eingerichtet. Es ist eins von fünf Airbnb Apartments in diesem Gebäude. Falls Du also noch ein weiteres Apartment benötigst, sprich uns einfach an. Deinen Tag kannst Du entspannt mit einem kostenlosen Kaffee auf der Rooftop Terrasse mit schöner Aussicht starten. Alternativ holst Du dir deinen Coffee2Go einfach in einen der vielen Geschäfte auf deinem Weg zur fußläufig entfernten Königsallee. Nach einem Shopping Tag empfängt Dich das Apartment mit einem SmartTV inklusive Netflix, was Du vom Bett aus genießen kannst. Kostenlose Bettwäsche und Handtücher stehen Dir natürlich zur Verfügung. Im Badezimmer findest du außerdem immer Seife und Duschgel sowie Haarshampoo. Falls die Arbeit ruft, kannst du auch problemlos von einem kleinen Schreibtisch aus das wichtigste erledigen. Highspeed Internet ist im Übernachtungspreis schon inklusive. ",
+        "ort": "Düsseldorf",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Essener Str.",
+        "preis": "66€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-15",
+            "endDate": "2021-11-20"
+        },
+        "koordinaten": {
+            "lat": "50.981047",
+            "lng": "11.029144"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-01/Erfurt-main.jpeg",
+            "moreImages": [
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-01/Badezimmer.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-01/Bett.jpg",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-01/Balkon.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-01/K%C3%BCche.webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-01/Flur..webp",
+                "http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-01/Wohnzimmer.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "Geschirr und Besteck": true,
+            "Reinigungsprodukte": false,
+            "Bügeleisen": false,
+            "Föhn": false,
+            "Klimaanlage": true,
+            "Kleiderbügel": false,
+            "Rauchen erlaubt": true,
+            "Langzeitaufenthalte sind möglich": true
+        },
+        "owner": {
+            "name": "Ben",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Ben.jpg"
+        },
+        "type": "Wohnung im Herzen von Erfurt",
+        "title": "Schöne 2-Zimmer Wohnung im Herzen der Altstadt von Erfurt, an der berühmten Krämerbrücke!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Esszimmer · 1 Wohnzimmer · 1 Badezimmer ",
+        "longDescription": "Das Augustiner Kloster ist direkt gegenüber und nur wenige Gehminuten von der Krämerbrücke entfernt.Der Dom sowie der Fischmarkt ist ebenso nur in paar Minuten Gehweg zu erreichen.",
+        "ort": "Erfurt",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Comthurgasse",
+        "preis": "29€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-12-25",
+            "endDate": "2022-01-02"
+        },
+        "koordinaten": {
+            "lat": "53.566344",
+            "lng": "9.954988"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-01/Hamburg-main.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-01/Bad.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-01/Bett.webp",
+                "http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-01/K%C3%BCche.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "Geschirr und Besteck": true,
+            "Reinigungsprodukte": false,
+            "Bügeleisen": true,
+            "Föhn": true,
+            "Klimaanlage": false,
+            "Kleiderbügel": false,
+            "Rauchen erlaubt": true,
+            "Langzeitaufenthalte sind möglich": true
+        },
+        "owner": {
+            "name": "Billa",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Billa.jpg"
+        },
+        "type": "Sonniges Apartment in Stadtvilla (Sternschanze)",
+        "title": "Wunderschönes sonniges Apartment in ruhiger Nebenstraße am Rande des Schanzenviertels!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Wohnzimmer · 1 Badezimmer ",
+        "longDescription": "Neueröffnung 9/2020. Übernachten Sie in der 1885 gebauten und 2020 sanierten Kaufmannsvilla in einer verkehrsberuhigten Wohnstraße. Altbaucharme mit moderner hotelähnlicher Austattung, verbessertem Schallschutz und gut ausgestatteter Küche. Fußläufig erreichbar befinden sich zahlreiche Bars und Restaurants des beliebten Szeneviertels Sternschanze. Kinderfreundlicher Stadtteil mit vielen Spielplätzen.-Neuereröffnung nach Sanierung 9/2020 ,-Parkettboden,-Boxspringbett 180x200,- geschmackvolle Ausstattung und Beleuchtung,- modernes Badezimmer,- sonnige Küche mit Induktionsherd, Ofen, Kühlschrank und gemütlichem Essplatz,- 43 Zoll LED TV mit Magenta TV und Netflix-Zugang,- schnelles Internet (Wifi) in der ganzen Villa,- Waschmaschine, Trockner, Bügeleisen stehen zur Verfügung,-14qm großes Schlafzimmer mit TV, kleine Küche, Duschbad",
+        "ort": "Hamburg",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Heinrichstraße",
+        "preis": "85€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-05",
+            "endDate": "2021-11-10"
+        },
+        "koordinaten": {
+            "lat": "50.94065",
+            "lng": "6.93464"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/K%C3%B6ln-Bilder/K%C3%B6ln-01/K%C3%B6ln-main.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/K%C3%B6ln-Bilder/K%C3%B6ln-01/Bett.webp",
+                "http://localhost:4000/public/images/K%C3%B6ln-Bilder/K%C3%B6ln-01/couch.webp",
+                "http://localhost:4000/public/images/K%C3%B6ln-Bilder/K%C3%B6ln-01/Fernseher.webp",
+                "http://localhost:4000/public/images/K%C3%B6ln-Bilder/K%C3%B6ln-01/K%C3%BCche-2.webp",
+                "http://localhost:4000/public/images/K%C3%B6ln-Bilder/K%C3%B6ln-01/K%C3%BCche.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "Geschirr und Besteck": false,
+            "Reinigungsprodukte": false,
+            "Bügeleisen": false,
+            "Föhn": false,
+            "Klimaanlage": false,
+            "Kleiderbügel": false,
+            "Rauchen erlaubt": true,
+            "Langzeitaufenthalte sind möglich": true
+        },
+        "owner": {
+            "name": "Christel",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Christel.jpeg"
+        },
+        "type": "Charmantes Studio inkl. Parkplatz am Stadtgarten",
+        "title": " Fühle dich wie zu Hause in einem der trendigsten Viertel Kölns: Das Belgische Viertel!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Küche ",
+        "longDescription": "Willkommen in unserem neu möbliertem, gemütlichen Apartment Studio. Unsere kleine Oase ist mit viel Liebe zum Detail eingerichtet und freut sich auf wundervolle Gäste aus der ganzen Welt. Von euerm Parkplatz direkt vor der Tür gelangt ihr mit 4 Treppenstufen runter in unsere kleine, gemütliche & frisch renovierte Untergeschoss-Wohnung. Hier ist wirklich alles neu, die Küche, das Bett, die Matratze, der Esstisch, das Sofa, der Fernseher... wirklich alles. Der Schlafbereich mit dem großem Bett kann mit Vorhängen separiert werden, der zweite Schlafbereich befindet sich im Wohnzimmer. Das große Sofa kann zu einem zweiten Bett verwandelt werden. Die Küche ist mit Herd, Ofen, Mikrowelle & großem Kühlschrank ausgestattet.ACHTUNG der TV hat keinen normalen Anschluss, nur internet TV möglich!!!",
+        "ort": "Köln",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Brüsseler Str.",
+        "preis": "85€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-12-06",
+            "endDate": "2021-12-08"
+        },
+        "koordinaten": {
+            "lat": "47.6783",
+            "lng": "9.19401"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-01/Konstanz-main.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-01/Badezimmer.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-01/Bettansicht.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-01/Esstisch.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-01/Gesamtansicht-2.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-01/Gesamtansicht.webp",
+                "http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-01/K%C3%BCchenzeile.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": false,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "Geschirr und Besteck": false,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": true,
+            "Föhn": false,
+            "Klimaanlage": false,
+            "Kleiderbügel": false,
+            "Rauchen erlaubt": true,
+            "Langzeitaufenthalte sind möglich": true
+        },
+        "owner": {
+            "name": "Christopher",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Christopher.jpg"
+        },
+        "type": "Urlauben am schönen Bodensee",
+        "title": "Wohnkubus für 1-2 Personen mit kleiner Holzterrasse!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Badezimmer · 1 Küche",
+        "longDescription": "Ruhige Lage am Wald, Nähe Universität, 2,4km bis zum Zentrum, Bushaltestelle nur 400m entfernt. Zur Ausstattung der Unterkunft gehört eine grosse Schlafcouch (2.00 x 1.60) , eine Küchenzeile, Bad mit Dusche und WC, Fussbodenheizung, PKW-Stellplatz, TV, WLAN, Bügeleisen und Bügelbrett. Die Unterkunft befindet sich in unserem Garten.Die UnterkunftBei Eurer Ankunft erhebt die Stadt Konstanz (nicht wir oder Airbnb) für Touristen eine Kurtaxe in Höhe von 2,50€ pro Person/Nacht. Dafür bekommt Ihr für den Zeitraum ein kostenloses Busticket sowie teilweise vergünstigte Eintrittskarten. Bitte nehmt dies zur Kenntnis.Kinder sind willkommen und ein Kinderbett und Hochstuhl stehen bei Bedarf zur Verfügung. Die Küche ist mit zwei Kochfeldern, Kühlschrank und Mikrowelle ausgestattet und bietet die Möglichkeit, sich kleinere Gerichte zuzubereiten. Ein Backofen ist nicht vorhanden.",
+        "ort": "Konstanz",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Sonnenbühlstr.",
+        "preis": "69€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-02",
+            "endDate": "2021-11-03"
+        },
+        "koordinaten": {
+            "lat": "51.35891",
+            "lng": "12.37746"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-01/Leipzig-main.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-01/Badezimmer-2.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-01/Badezimmer.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-01/Fernseher.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-01/Gesamtansicht.webp",
+                "http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-01/K%C3%BCche.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "Geschirr und Besteck": false,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": false,
+            "Föhn": false,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "Rauchen erlaubt": true,
+            "Langzeitaufenthalte sind möglich": true
+        },
+        "owner": {
+            "name": "Danja",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Danja.jpg"
+        },
+        "type": "Moderne Wohnung (zentral,Messe/Zoo)",
+        "title": "Diese helle moderne Dachgeschosswohnung heißt Euch recht herzlich willkommen in Leipzig!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Badezimmer · 1 Küche",
+        "longDescription": "Sie bietet alles, was Euch das Gefühl von Zu Hause im Urlaub gibt. Das Zentrum der Stadt ist schnell erreichbar, aber auch die Messe ist nicht weit entfernt. Diese moderne helle Wohnung (Sanierung Dezember 2018) ist perfekt für die Ferien in Leipzig oder den nächsten Messeaufenthalt. Viele nette Kleinigkeiten heißen Euch Willkommen! Bettwäsche und Handtücher vorhanden, Küche mit kleiner Grundausstattung (Wasserkocher, Toaster, Töpfe, Geschirr, Besteck, Kaffe, Tee, Zucker, Salz, Pfeffer), Kühlschrank mit separaten Gefrierfach, viel Staufläche in modernen Schränken und großem Kleiderschrank, helles modernes Bad mit großer Dusche und Fußbodenheizung. Großer Flachbildschirm mit Satellietenfernsehen, DVD-Player und Radio mit CD-Player warten auf Sie, wenn der Tag zu regnerisch ist, um die Stadt zu erkunden.",
+        "ort": "Leipzig",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Mechlerstr. 8-12",
+        "preis": "37€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-05",
+            "endDate": "2021-11-06"
+        },
+        "koordinaten": {
+            "lat": "48.1083",
+            "lng": "11.57131"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/M%C3%BCnchen-Bilder/M%C3%BCnchen-01/M%C3%BCnchen-main.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/M%C3%BCnchen-Bilder/M%C3%BCnchen-01/Au%C3%9Fenansicht.webp",
+                "http://localhost:4000/public/images/M%C3%BCnchen-Bilder/M%C3%BCnchen-01/dusche.webp",
+                "http://localhost:4000/public/images/M%C3%BCnchen-Bilder/M%C3%BCnchen-01/Innenansicht.webp",
+                "http://localhost:4000/public/images/M%C3%BCnchen-Bilder/M%C3%BCnchen-01/kleinerTisch.webp",
+                "http://localhost:4000/public/images/M%C3%BCnchen-Bilder/M%C3%BCnchen-01/K%C3%BCchenzeile.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "Geschirr und Besteck": false,
+            "Reinigungsprodukte": false,
+            "Bügeleisen": false,
+            "Föhn": false,
+            "Klimaanlage": false,
+            "Kleiderbügel": true,
+            "Rauchen erlaubt": true,
+            "Langzeitaufenthalte sind möglich": true
+        },
+        "owner": {
+            "name": "Daniel",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Daniel.JPG"
+        },
+        "type": "Stilvolles Appartement im lässigsten Viertel",
+        "title": "Keine Lust auf ein 0815 Hotelzimmer?!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Couch · 1 Badezimmer · 1 Küche",
+        "longDescription": "Gemütlich ein Glas Wein trinken, am nächsten Morgen die Stadt mit dem Radl erkunden und das bietet die Unterkunft Dir: • Fahrrad - incl. Schloss & Helm• Full HD Smart - TV mit Netflix,• Kaltschaumboxspringbett, offener Kleiderschrank, Chesterfieldcouch• Kaffeevollautomat, Weinregal etc. • 24/7 Self-Check (Smart Home)• Ebenerdige Regendusche • 3 Minuten zur UBahn - 4 Stationen zum Hauptbahnhof• High Speed Internet - 200 mBits/s",
+        "ort": "München",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Fritz-Lange-Str.",
+        "preis": "53€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-11-11",
+            "endDate": "2021-11-13"
+        },
+        "koordinaten": {
+            "lat": "54.40622",
+            "lng": "13.6069"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/R%C3%BCgen-Bilder/R%C3%BCgen-01/R%C3%BCgen-main.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/R%C3%BCgen-Bilder/R%C3%BCgen-01/Au%C3%9Fenansicht.webp",
+                "http://localhost:4000/public/images/R%C3%BCgen-Bilder/R%C3%BCgen-01/Badezimmer.webp",
+                "http://localhost:4000/public/images/R%C3%BCgen-Bilder/R%C3%BCgen-01/Bett-2.webp",
+                "http://localhost:4000/public/images/R%C3%BCgen-Bilder/R%C3%BCgen-01/Bett.webp",
+                "http://localhost:4000/public/images/R%C3%BCgen-Bilder/R%C3%BCgen-01/Esstisch.webp",
+                "http://localhost:4000/public/images/R%C3%BCgen-Bilder/R%C3%BCgen-01/Innenansicht.webp",
+                "http://localhost:4000/public/images/R%C3%BCgen-Bilder/R%C3%BCgen-01/K%C3%BCche.webp",
+                "http://localhost:4000/public/images/R%C3%BCgen-Bilder/R%C3%BCgen-01/Wohnzimmer.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Aufzug": true,
+            "Heizung": true,
+            "Warmwasser": true,
+            "Geschirr und Besteck": false,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": false,
+            "Föhn": false,
+            "Klimaanlage": false,
+            "Kleiderbügel": false,
+            "Rauchen erlaubt": true,
+            "Langzeitaufenthalte sind möglich": true
+        },
+        "owner": {
+            "name": "Elena",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Elena.jpg"
+        },
+        "type": "Strandnah, ruhig, mit Balkon und viel Licht",
+        "title": "100 Meter vom Strand am Standzugang 28 entfernt!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Wohnzimmer · 1 Küche · 1 Badezimmer ",
+        "longDescription": "Gemütliche Dachgeschoss-Zweizimmerwohnung (Sonne-Strand-Binz) auf 45 qm mit Balkon ein wundervolles Ferienambiente.Bettwäsche, Handtücher, die Reinigung und ein Parkplatz in der Nähe sind im Preis inbegriffen. Hohe Decken, stilvolle und zum Teil handgefertigte Möbel sowie ein freier Ausblick über die direkte Umgebung in Richtung Südosten sorgen für eine entspannte Atmosphäre. Dank der Lage in zweiter Reihe zur Lottumstraße genießen Sie hier Ihre absolute Ruhe. Bis zu vier Personen können in der Wohnung bequem schlafen.",
+        "ort": "Rügen",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Strandpromenade,Binz",
+        "preis": "82€"
+    },
+    {
+        "booking": {
+            "startDate": "2021-12-16",
+            "endDate": "2021-12-18"
+        },
+        "koordinaten": {
+            "lat": "48.76282",
+            "lng": "9.1609"
+        },
+        "images": {
+            "mainImg": "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-01/Stuttgart-main.webp",
+            "moreImages": [
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-01/Badezimmer.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-01/Balkon.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-01/Flur.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-01/Innenleben.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-01/K%C3%BCche.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-01/Schlafzimmer-2.webp",
+                "http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-01/Schlafzimmer.webp"
+            ]
+        },
+        "offers": {
+            "Küche": true,
+            "Waschmaschine": true,
+            "WLAN": true,
+            "TV": true,
+            "Aufzug": false,
+            "Heizung": true,
+            "Warmwasser": true,
+            "Geschirr und Besteck": false,
+            "Reinigungsprodukte": true,
+            "Bügeleisen": false,
+            "Föhn": false,
+            "Klimaanlage": false,
+            "Kleiderbügel": false,
+            "Rauchen erlaubt": true,
+            "Langzeitaufenthalte sind möglich": true
+        },
+        "owner": {
+            "name": "Eva",
+            "profImg": "http://localhost:4000/public/images/owner/owner-01/Eva.jpeg"
+        },
+        "type": "Ganze Wohnung Stuttgart City nahe Marienplatz",
+        "title": "Schöne 2 Zimmerwohnung im Stuttgarter Süden nahe dem Marienplatz!",
+        "typeOfAcco": "Gesamte Unterkunft",
+        "shortDescription": "2 Gäste · 1 Schlafzimmer · 1 Bett · 1 Wohnzimmer · 1 Küche · 1 Badezimmer ",
+        "longDescription": "Die Wohnung befindet sich im 1OG ohne Aufzug und ist sehr stilvoll eingerichtet.Der öffentliche Nahverkehr am Erwin - Schöttleplatz (Bus 42/ 41 und U Bahn 1/934) ist in wenigen geh Minuten zu erreichen.Der Marienplatz ist in Fußnähe.Parkmöglichkeiten vorhanden an der Straße aber Kostenpflichtig.",
+        "ort": "Stuttgart",
+        "comments": [
+            {
+                "ratings": {
+                    "Sauberkeit": 3,
+                    "Kommunikation": 3,
+                    "Check": 4,
+                    "Genauigkeit": 2,
+                    "Standort": 3,
+                    "Preis": 2
+                },
+                "date": "12. Oktober 2021 um 10:31Uhr",
+                "name": "Mike",
+                "text": "Wunderbare Erfahrung"
+            }
+        ],
+        "adresse": "Eier Str.",
+        "preis": "88€"
+    }
+]

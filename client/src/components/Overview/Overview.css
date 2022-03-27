@@ -1,0 +1,87 @@
+.h2_overview {
+    margin-left: 0px;
+}
+
+.overview_container .css-pwngrv-MuiPaper-root-MuiCard-root {
+    width: 275px;
+}
+
+.overview_container {
+    margin: 15px;
+    text-align: center;
+}
+
+.overview_container .MuiPaper-root {
+    display: inline-block;
+    margin: 10px;
+}
+
+.overview_container .MuiCardContent-root .css-16m3jxf-MuiTypography-root {
+    font-weight: bold;
+    color: black;
+    text-shadow: 1px 1px 2px #e4e4e4;
+}
+
+.overview_container .css-pwngrv-MuiPaper-root-MuiCard-root {
+    height: 150px;
+}
+
+.overview_container .overview_button {
+    margin: 0;
+    padding: 0;
+}
+
+.overview_container .css-bhp9pd-MuiPaper-root-MuiCard-root {
+    width: 130px;
+    height: 65px;
+}
+
+.leipzig_card {
+    background-image: url("http://localhost:4000/public/images/Leipzig-Bilder/Leipzig-02/Leipzig.webp");
+    background-size: cover;
+}
+
+.berlin_card {
+    background-image: url("http://localhost:4000/public/images/Berlin-Bilder/Berlin-02/Berlin.jpg");
+    background-size: cover;
+}
+
+.konstanz_card {
+    background-image: url("http://localhost:4000/public/images/Konstanz-Bilder/Konstanz-02/Konstanz.jpg");
+    background-size: cover;
+}
+
+.suttgart_card {
+    background-image: url("http://localhost:4000/public/images/Stuttgart-Bilder/Stuttgart-02/Stuttgart.jpg");
+    background-size: cover;
+}
+
+.hamburg_card {
+    background-image: url("http://localhost:4000/public/images/Hamburg-Bilder/Hamburg-02/hamburg.jpg");
+    background-size: cover;
+}
+
+.erfurt_card {
+    background-image: url("http://localhost:4000/public/images/Erfurt-Bilder/Erfurt-02/Stadt.webp");
+    background-size: cover;
+}
+
+.düsseldorf_card {
+    background-image: url("http://localhost:4000/public/images/Düsseldorf-Bilder/Düsseldorf-02/duesseldorf.webp");
+    background-size: cover;
+}
+
+.köln_card {
+    background-image: url("http://localhost:4000/public/images/Köln-Bilder/Köln-02/koeln.jpg");
+    background-size: cover;
+}
+
+.rügen_card {
+    background-image: url("http://localhost:4000/public/images/Rügen-Bilder/Rügen-02/ruegen.jpg");
+    background-size: cover;
+}
+
+.münchen_card {
+    background-image: url("http://localhost:4000/public/images/München-Bilder/München-02/München.jpg");
+    background-size: cover;
+}
