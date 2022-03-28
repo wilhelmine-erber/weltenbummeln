@@ -1,6 +1,6 @@
-# DCI Final Project
+
 # Projektidee - Beschreibung
-Webseite wo man Wohnungen buchen/reservieren kann um Urlaub oder kurze Reisen zu machen
+Dies ist eine Webseite in der man Wohnungen buchen/reservieren kann um Urlaub oder kurze Reisen zu machen
 - Hauptwebsite hat einen Header, Liste mit allen verfügbaren Wohnungen / Häusern, Footer mit unseren Namen und verlinkungen zu social Media
 - es gibt ein Inputfield zum Filtern nach dem Reiseziel
 - zu jedem Reiseziel kann man die Verfügbarkeit in einem Kalender prüfen
