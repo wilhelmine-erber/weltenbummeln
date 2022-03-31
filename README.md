@@ -8,6 +8,3 @@ Dies ist eine Webseite in der man Wohnungen **reservieren** kann um Urlaub oder 
 - in jedem Angebot gibt es viele Details, mit Bildern, Beschreibung, Preis, Personen (Schlafplätze)
 - wenn man gebucht hat, bekommt man eine Übersicht mit allen Details per Mail angezeigt (evtl. später)
 - Anmeldung als User (bucht Angebot) oder Host (stellt Angebote rein)
-
-## es ist ein React Project
-## Project funktioniert mit dem Browser über die index.html
