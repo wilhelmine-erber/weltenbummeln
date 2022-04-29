@@ -1,10 +1,10 @@
 
 # Weltenbummeln
 ## react project 
-Dies ist eine Webseite in der man Wohnungen **reservieren** kann um Urlaub oder kurze Reisen zu machen
-- Hauptwebsite hat eine Liste mit allen verfügbaren Unterkünften
-- es gibt eine Filterfunktion, wo man nach dem Reiseziel suchen kann
-- zu jedem Reiseziel kann man die Verfügbarkeit in einem Kalender prüfen
-- in jedem Angebot gibt es viele Details, mit Bildern, Beschreibung, Preis, Personen (Schlafplätze)
-- wenn man gebucht hat, bekommt man eine Übersicht mit allen Details per Mail angezeigt (evtl. später)
-- Anmeldung als User (bucht Angebot) oder Host (stellt Angebote rein)
+This is a website where you can **reserve** apartments for vacation or short trips
+- Main website has a list of all available accommodations
+- there is a filter function where you can search for the destination
+- for each destination you can check availability in a calendar
+- in every offer there are many details, with pictures, description, price, persons (sleeping places)
+- when you have booked, you will get an overview with all details by mail (maybe later)
+- Login as user (books offer) or host (posts offers)
