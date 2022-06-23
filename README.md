@@ -1,7 +1,7 @@
 
 # Weltenbummeln
 ## react project 
-This is a website where you can **reserve** apartments for vacation or short trips
+This is a website where you can **reserve** apartments for vacation, short trips or Overnight stay
 - Main website has a list of all available accommodations
 - there is a filter function where you can search for the destination
 - for each destination you can check availability in a calendar
