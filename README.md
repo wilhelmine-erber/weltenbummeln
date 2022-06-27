@@ -11,7 +11,7 @@ This is a website where you can **reserve** apartments for vacation, short trips
 - the design comes later
 
 
-# paths in server
+## paths in server
 Paths                                       |descripthion
 --------------------------------------------|----------------------
 http://localhost:4000                       | index
