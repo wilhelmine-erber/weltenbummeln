@@ -9,3 +9,10 @@ This is a website where you can **reserve** apartments for vacation, short trips
 - when you have booked, you will get an overview with all details by mail (maybe later)
 - Login as user (books offer) or host (posts offers)
 - the design comes later
+
+
+# paths in server
+Paths                                       |descripthion
+--------------------------------------------|----------------------
+http://localhost:4000                       | index
+http://localhost:4000/api/houses            | All houses
