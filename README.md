@@ -16,3 +16,7 @@ Paths                                       |descripthion
 --------------------------------------------|----------------------
 http://localhost:4000                       | index
 http://localhost:4000/api/houses            | All houses
+
+
+
+![weltenbummeln](https://user-images.githubusercontent.com/74241434/186416846-f1270244-8c04-47c2-84e8-40a7f669343a.png)
