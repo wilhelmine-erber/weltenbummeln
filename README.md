@@ -17,10 +17,13 @@ This is a website where you can **reserve** apartments for vacation, short trips
 - more the design comes later
 
 
-## paths in server
-Paths                                       |descripthion
---------------------------------------------|----------------------
-http://localhost:4000                       | index
-http://localhost:4000/api/houses            | All houses
+### Used Tools
+- [npm](https://www.npmjs.com/)
+- [Google Fonts](https://fonts.google.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 
+### Contact
+Mail: <mine.erber@gmx.de><br>
+GitHub: [wilhelmine-erber](https://github.com/wilhelmine-erber)<br>
+LinkedIn: [wilhelmine-erber](https://www.linkedin.com/in/wilhelmine-erber-248491217/)
